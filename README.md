@@ -1,4 +1,5 @@
 **What does the plugin do**
+
 Sends a customizable message to a specified channel in a Discord Server on player Connect and Disconnect.
 
 **Configuration**
