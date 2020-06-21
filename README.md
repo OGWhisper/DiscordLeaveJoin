@@ -17,5 +17,7 @@ Sends a customizable message to a specified channel in a Discord Server on playe
 This plugin requires Discord Core.
 
 To find the Channel ID of a Channel. First turn on Developer mode.
+
 https://discordia.me/en/developer-mode
+
 Then right click the specified channel and click "Copy ID"
