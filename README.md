@@ -4,11 +4,11 @@ Sends a customizable message to a specified channel in a Discord server on playe
 
 ```json
 {
-    "channelID": "channel ID: ",
-    "joinMessages":  true,
-    "leaveMessages":  true,
-    "joinMessage":  "Connected {time}: {username}",
-    "leaveMessage":  "Connected {time}: {username}"
+  "channelID": "channel ID: ",
+  "joinMessages":  true,
+  "leaveMessages":  true,
+  "joinMessage":  "Connected {time}: {username}",
+  "leaveMessage":  "Connected {time}: {username}"
 }
 ```
 
